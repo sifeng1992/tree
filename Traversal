@@ -1,0 +1,12 @@
+Tree Traversal:
+It has three type of the traversal of tree(preorder,inorder,postorder).
+(1)Preoeder Traversal: the sequence of traversal is root,left,right.The most feature of it is the first element is the root,and it can't
+distinguish the left-subtree from the right-subtree.
+(2)Inoeder Traversal: the sequence of traversal is left,root,right.If you know the root node ,then you can find out the left-subtree and 
+the right-subtree trvaersal.
+(3)Postoeder Traversal: the sequence of traversal is left,right,root.The last element of the traversal is the root.
+
+Tree Traversal Algorithom:
+(1)recursive
+   -->Preorder:
+   
